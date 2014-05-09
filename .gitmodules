@@ -1,0 +1,3 @@
+[submodule "scratchext"]
+	path = scratchext
+	url = https://github.com/nathan/scratchext
